@@ -1,24 +1,16 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails 7 templete with
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+Includes
+- Tailwind CSS.
+- EsBuild.
+- Devise.
+- Rspec.
+- Postgresql.
+- Hot Reloading With Hotwire::Livereload.
+- Devx shell script with Procfile.
+- Pry with Nav.
+- Devise forms with Tailwind.
 
 * ...
