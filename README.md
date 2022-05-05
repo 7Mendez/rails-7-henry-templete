@@ -1,4 +1,4 @@
-# Rails 7 start init templete
+# Rails 7 start init template
 
 Includes
 - Tailwind CSS.
@@ -10,3 +10,11 @@ Includes
 - Devx shell script with Procfile.
 - Pry with Nav.
 - Devise forms with Tailwind.
+- Httparty
+- Sidekiq
+- Interactor
+- dotenv
+- jQuery
+
+
+Created by [Henry Mendez - 7Mendez](https://github.com/7Mendez)
